@@ -1,0 +1,218 @@
+
+header{
+    background-color: rgba(179, 247, 179, 0.822);
+}
+
+h1{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+}
+
+body {
+ background-color: rgb(170, 247, 179, 0.822);
+}
+
+.uno {
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 120px;
+    flex-wrap: wrap;
+
+}
+.dos {
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 120px;
+    flex-wrap: wrap;
+
+}
+.tres {
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 120px;
+    flex-wrap: wrap;
+
+}
+
+.cuatro {
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 120px;
+    flex-wrap: wrap;
+
+}
+
+.cinco {
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 60px;
+    flex-wrap: wrap;
+
+}
+.seis{
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 60px;
+    flex-wrap: wrap;
+
+}
+.seis{
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 60px;
+    flex-wrap: wrap;
+
+}
+.siete{
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 60px;
+    flex-wrap: wrap;
+
+}
+
+.ocho{
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 70px;
+    flex-wrap: wrap;
+
+}
+
+.nueve{
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 25px;
+    flex-wrap: wrap;
+
+}
+
+.diez{
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 25px;
+    flex-wrap: wrap;
+
+
+}
+
+.once{
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 25px;
+    flex-wrap: wrap;
+
+}
+
+.doce{
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 25px;
+    flex-wrap: wrap;
+
+}
+
+
+.Shorts {
+    flex: 100%;
+    display: flex;
+    flex-wrap: wrap;
+ 
+}
+
+.Shorts img {
+    height: 300px;
+ 
+}
+
+footer{
+
+ text-align: center;
+ color: black;
+ font-size: 20px;
+}
+
+
+p{
+    text-align: center;
+    font-size: 15px;
+}

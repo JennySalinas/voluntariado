@@ -1,0 +1,206 @@
+
+header{
+    background-color: rgb(203, 179, 228);
+}
+
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-size: 40px;
+}
+
+body {
+ background-color: rgb(203, 179, 228);
+}
+
+.uno {
+    margin: 22px;
+    padding: 22px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 150px;
+    flex-wrap: wrap;
+
+}
+.dos {
+    margin: 22px;
+    padding: 22px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 150px;
+    flex-wrap: wrap;
+
+}
+.tres {
+    margin: 22px;
+    padding: 22px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 150px;
+    flex-wrap: wrap;
+
+}
+
+.cuatro {
+    margin: 22px;
+    padding: 22px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 150px;
+    flex-wrap: wrap;
+
+}
+
+.cinco {
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 38px;
+    flex-wrap: wrap;
+
+}
+
+.seis{
+    margin: 22px;
+    padding: 22px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 38px;
+    flex-wrap: wrap;
+
+}
+.siete{
+    margin: 22px;
+    padding: 22px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 38px;
+    flex-wrap: wrap;
+
+}
+
+.ocho{
+    margin: 22px;
+    padding: 22px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 38px;
+    flex-wrap: wrap;
+
+}
+
+.nueve{
+    margin: 22px;
+    padding: 22px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 70px;
+    flex-wrap: wrap;
+
+}
+
+.diez{
+    margin: 22px;
+    padding: 22px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 70px;
+    flex-wrap: wrap;
+
+
+}
+
+.once{
+    margin: 22px;
+    padding: 22px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 70px;
+    flex-wrap: wrap;
+
+}
+
+.doce{
+    margin: 22px;
+    padding: 22px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 70px;
+    flex-wrap: wrap;
+
+}
+
+
+.Buzos {
+    flex: 100%;
+    display: flex;
+    flex-wrap: wrap;
+ 
+}
+
+.Buzos img {
+    height: 300px;
+ 
+}
+
+footer{
+
+ text-align: center;
+ color: aliceblue;
+ font-size: 20px;
+}
+
+
+p{
+    text-align: center;
+    font-size: 15px;
+}

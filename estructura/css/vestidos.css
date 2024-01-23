@@ -1,0 +1,150 @@
+
+header{
+    background-color: rgb(46, 205, 211);
+}
+
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-size: 40px;
+}
+
+body {
+ background-color:rgb(46, 205, 211) ;
+}
+
+
+.dos {
+    margin: 25px; ;
+    padding: 25px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 85px;
+    flex-wrap: wrap;
+
+}
+.tres {
+    margin: 25px;
+    padding: 25px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 85px;
+    flex-wrap: wrap;
+
+}
+
+.cuatro {
+    margin: 25px;
+    padding: 25px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 85px;
+    flex-wrap: wrap;
+
+}
+
+.cinco {
+    margin: 25px;
+    padding: 25px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 85px;
+    flex-wrap: wrap;
+
+}
+.seis{
+    margin: 25px;
+    padding: 25px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 120px;
+    flex-wrap: wrap;
+
+}
+
+.siete{
+    margin: 25px;
+    padding: 25px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 120px;
+    flex-wrap: wrap;
+
+}
+
+.ocho{
+    margin: 25px;
+    padding: 25px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 120px;
+    flex-wrap: wrap;
+
+}
+
+.uno {
+    margin:25px ;
+    padding: 25px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 120px;
+    flex-wrap: wrap;
+
+}
+
+
+.Vestidos {
+    flex: 100%;
+    display: flex;
+    flex-wrap: wrap;
+ 
+}
+
+.Vestidos img {
+    height: 350px;
+
+ 
+}
+
+footer{
+
+ text-align: center;
+ color: aliceblue;
+ font-size: 20px;
+}
+
+p{
+    text-align: center;
+}

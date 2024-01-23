@@ -1,0 +1,149 @@
+
+header{
+ /*   background-color: burlywood;*/
+ background-image: url("./imagenes/logo.jpg");
+ background-size: cover;
+ background-repeat: no-repeat;
+ font-size: 25px;
+
+}
+
+h1{
+    text-align: center;
+
+}
+
+body {
+ background-color: rgb(216, 182, 153);
+
+}
+
+.carduno {
+    margin:15px ;
+    padding: 15px;
+    border: 0px solid rgba(0, 0, 0, 0);
+    border-radius: 5px;
+    background-color: rgb(201, 156, 43);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 170px;
+    flex-wrap: wrap;    
+}
+
+.carddos {
+    margin: 15px ;
+    padding: 15px;
+    border: 0px solid rgba(0, 0, 0, 0);
+    border-radius: 5px;
+    background-color: rgba(163, 47, 47, 0.582);
+    text-align: right 150px;
+    cursor: pointer;
+     position: relative;
+    left: 170px;
+    flex-wrap: wrap;
+}
+
+.cardtres {
+    margin:15px ;
+    padding: 15px;
+    border: 0px solid rgba(0, 0, 0, 0);
+    border-radius: 5px;
+    background-color: rgb(196, 143, 143);
+    text-align: right 150px;
+    cursor: pointer;
+    position: relative;
+    left: 170px;
+    flex-wrap: wrap;
+}
+
+.cardcuatro {
+    
+    margin:15px;
+    padding: 15px;
+    border: 0px solid rgba(0, 0, 0, 0);
+    border-radius: 5px;
+    background-color: rgb(181, 216, 129);
+    text-align: right 150px;
+    cursor: pointer;
+    position: relative;
+    left: 170px;
+    flex-wrap: wrap;
+}
+
+.cardcinco {
+    
+    margin: 15px;
+    padding: 15px;
+    border: 0px solid rgba(0, 0, 0, 0);
+    border-radius: 5px;
+    background-color: rgb(181, 216, 129);
+    text-align: right 150px;
+    cursor: pointer;
+    position: relative;
+    left: 170px;
+    flex-wrap: wrap;
+
+}
+
+
+
+
+.cardseis{
+    margin:15px;
+    padding: 15px;
+    border: 0px solid rgba(0, 0, 0, 0);
+    border-radius: 5px;
+    background-color: rgb(120, 167, 120);
+    text-align: right 150px;
+    cursor: pointer;
+    position: relative;
+    left: 170px;
+    flex-wrap: wrap;
+ 
+}
+
+
+.cards {
+    flex: 150%;
+    display: flex;
+    flex-wrap: wrap;
+ 
+}
+
+.cards img {
+    height: 300px;
+ 
+}
+
+.cards .footer {
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+h3{
+    text-align: center;
+    font-size: 25px;
+}
+
+button {
+
+    background-color: rgb(134, 95, 172);
+    background-size: 10px;
+    border: 5px solid  plum;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+    
+    
+.Informacion{
+ background-color:  burlywood;
+ text-align: center;
+ font-size: 20px;
+}
+
+
+p{
+    text-align: center;
+    font-size: 20px;
+}

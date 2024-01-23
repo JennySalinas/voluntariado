@@ -1,0 +1,290 @@
+
+header{
+    background-color: rgba(228, 190, 65, 0.945);
+}
+
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-size: 40px;
+}
+
+body {
+ background-color: rgba(228, 190, 65, 0.945);
+}
+/*los primeros 1, 2, 3, 4*/
+.uno {
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 45px;
+    flex-wrap: wrap;
+
+}
+
+
+.cuatro {
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 45px;
+    flex-wrap: wrap;
+
+}
+
+.cinco {
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 45px;
+    flex-wrap: wrap;
+
+}
+.seis{
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 45px;
+    flex-wrap: wrap;
+
+}
+/*5,6,7,8*/
+.siete{
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 75px;
+    flex-wrap: wrap;
+
+}
+
+.ocho{
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 75px;
+    flex-wrap: wrap;
+
+}
+
+.nueve{
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 75px;
+    flex-wrap: wrap;
+
+}
+
+.diez{
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 75px;
+    flex-wrap: wrap;
+
+}
+/*9,10,11,12*/
+.once{
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 70px;
+    flex-wrap: wrap;
+
+}
+
+.doce{
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 70px;
+    flex-wrap: wrap;
+
+}
+
+.trece{
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 70px;
+    flex-wrap: wrap;
+
+}
+
+.catorce{
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 70px;
+    flex-wrap: wrap;
+
+}
+/*13,14,15,16*/
+.quince{
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 55px;
+    flex-wrap: wrap;
+
+}
+
+.dieciseis{
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 55px;
+    flex-wrap: wrap;
+
+}
+
+.diecisiete{
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 55px;
+    flex-wrap: wrap;
+
+}
+
+.dieciocho{
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 55px;
+    flex-wrap: wrap;
+
+}
+/*17 y 18*/
+.dos {
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 270px;
+    flex-wrap: wrap;
+
+}
+.tres {
+
+    margin: 20px;
+    padding: 20px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    text-align: left 150px;
+    cursor: pointer;
+    position: relative;
+    left: 270px;
+    flex-wrap: wrap;
+
+}
+
+.Accesorios {
+    flex: 100%;
+    display: flex;
+    flex-wrap: wrap;
+ 
+}
+
+.Accesorios img {
+    height: 300px;
+ 
+}
+
+footer{
+
+    text-align: center;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+p{
+    text-align: center;
+    font-size: 15px;
+}
